@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "myfirstapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "myfirstapi": "file:"
+  }
+}
